@@ -1,0 +1,948 @@
+.separateLine_separateLine__XZlUb span {
+    position: absolute;
+    width: .5em;
+    aspect-ratio: 1/.15
+}
+
+.separateLine_separateLine__XZlUb span:first-child {
+    transform: rotate(90deg)
+}
+
+.separateLine_separateLine__XZlUb {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative
+}
+
+.customerPortalOrderCTA_orderCTAContainer__YLgtS {
+    display: flex;
+    flex-direction: column;
+    width: 92%
+}
+
+.customerPortalOrderCTA_titleContainer__PsZbc {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center
+}
+
+.customerPortalOrderCTA_titleContainer__PsZbc h1 {
+    font-family: Youth;
+    letter-spacing: -.04em;
+    font-weight: 500;
+    color: #575349;
+    width: 100%;
+    font-size: 2.63em;
+    text-align: center;
+    line-height: 60%
+}
+
+.customerPortalOrderCTA_titleContainer__PsZbc div {
+    display: flex;
+    flex-direction: column;
+    font-family: Aeonik;
+    letter-spacing: -.01em;
+    font-weight: 400
+}
+
+.customerPortalOrderCTA_titleContainer__PsZbc div span:first-child {
+    font-size: .85em
+}
+
+.customerPortalOrderCTA_titleContainer__PsZbc div span {
+    line-height: 130%
+}
+
+.customerPortalOrderCTA_CTAContainer__OFfUQ {
+    display: flex;
+    flex-direction: column;
+    align-items: center
+}
+
+.customerPortalOrderCTA_productName__Rwv2y {
+    font-family: Youth;
+    letter-spacing: -.04em;
+    color: #575349;
+    font-weight: 500;
+    font-size: 2.45em;
+    margin-bottom: .65em;
+    width: 100%;
+    color: #a39b8b;
+    display: flex;
+    justify-content: center
+}
+
+.customerPortalOrderCTA_orderInfosContainer__MgFJ6 {
+    width: 71.594%;
+    flex-wrap: wrap;
+    gap: 4.1em;
+    align-items: center;
+    color: #a39b8b;
+    font-family: Aeonik;
+    font-weight: 400;
+    letter-spacing: -.01em;
+    margin-bottom: 2.45em;
+    justify-content: space-between;
+    display: flex
+}
+
+.customerPortalOrderCTA_orderInfosContainer__MgFJ6 div {
+    display: flex;
+    flex-direction: column;
+    align-items: center
+}
+
+.customerPortalOrderCTA_orderInfosContainer__MgFJ6 span {
+    font-size: 1.08em
+}
+
+.customerPortalOrderCTA_paymentInfosContainer__5XJ6e {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    width: 100%;
+    margin-bottom: 5.8em
+}
+
+.customerPortalOrderCTA_paymentInfo__elhn7 {
+    display: flex;
+    flex-direction: column
+}
+
+.customerPortalOrderCTA_paymentInfo__elhn7:nth-child(2) {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%)
+}
+
+.customerPortalOrderCTA_paymentInfo__elhn7 span:first-child {
+    color: #a39b8b;
+    font-family: Aeonik;
+    font-weight: 400;
+    letter-spacing: -.01em;
+    font-size: .9em
+}
+
+.customerPortalOrderCTA_paymentInfo__elhn7 span:nth-child(2) {
+    color: #575349;
+    font-family: Youth;
+    font-weight: 500;
+    letter-spacing: -.04em;
+    font-size: 2.3em
+}
+
+.customerPortalOrderCTA_paymentInfo__elhn7 span:nth-child(3) {
+    color: #a39b8b;
+    font-family: Aeonik;
+    font-weight: 400;
+    letter-spacing: -.01em;
+    font-size: .76em
+}
+
+.customerPortalOrderCTA_paymentInfo__elhn7 {
+    align-items: center;
+    justify-content: center
+}
+
+.customerPortalOrderCTA_purchaseButton__7iy1r {
+    width: 50.82%;
+    background-color: #eeece7;
+    text-transform: uppercase;
+    color: #575349;
+    font-weight: 400;
+    font-family: FTPolarMono;
+    border-radius: .5em;
+    padding-top: 2.2em;
+    padding-bottom: 2.2em;
+    letter-spacing: .05em;
+    font-size: .75em;
+    margin-bottom: 5.45em
+}
+
+@media (min-width:1024px) {
+    .customerPortalOrderCTA_orderCTAContainer__YLgtS {
+        width: 100%
+    }
+
+    .customerPortalOrderCTA_titleContainer__PsZbc h1 {
+        font-size: 2.65em
+    }
+
+    .customerPortalOrderCTA_productName__Rwv2y {
+        font-size: 2.64em;
+        margin-bottom: .65em;
+        width: 100%;
+        color: #a39b8b;
+        display: flex;
+        justify-content: center
+    }
+
+    .customerPortalOrderCTA_orderInfosContainer__MgFJ6 {
+        width: 100%;
+        padding-inline: 10%;
+        display: flex;
+        justify-content: space-between;
+        gap: 2em;
+        margin-bottom: 3.6em
+    }
+
+    .customerPortalOrderCTA_orderInfosContainer__MgFJ6 span {
+        font-size: 1.15em
+    }
+
+    .customerPortalOrderCTA_paymentInfosContainer__5XJ6e {
+        width: 70.921%;
+        margin-bottom: 3.65em;
+        position: relative
+    }
+
+    .customerPortalOrderCTA_paymentInfo__elhn7 {
+        align-items: center;
+        justify-content: center
+    }
+
+    .customerPortalOrderCTA_paymentInfo__elhn7:nth-child(2) {
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%)
+    }
+
+    .customerPortalOrderCTA_paymentInfo__elhn7 span:first-child {
+        font-size: .9em
+    }
+
+    .customerPortalOrderCTA_paymentInfo__elhn7 span:nth-child(2) {
+        font-size: 2.3em
+    }
+
+    .customerPortalOrderCTA_paymentInfo__elhn7 span:nth-child(3) {
+        font-size: .76em
+    }
+
+    .customerPortalOrderCTA_purchaseButton__7iy1r {
+        width: 24.82%;
+        background-color: #eeece7;
+        text-transform: uppercase;
+        color: #575349;
+        font-weight: 400;
+        font-family: FTPolarMono;
+        border-radius: .5em;
+        padding-top: 2.2em;
+        padding-bottom: 2.2em;
+        letter-spacing: .05em;
+        font-size: .75em;
+        margin-bottom: 5.45em
+    }
+}
+
+.customerPortalOrder_orderContainer__IqIWO {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%
+}
+
+.customerPortalOrder_titleContainer__q9sEq {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+.customerPortalOrder_titleContainer__q9sEq h1 {
+    font-family: Youth;
+    letter-spacing: -.04em;
+    font-weight: 500;
+    color: #575349;
+    font-size: 2.55em;
+    line-height: 80%
+}
+
+.customerPortalOrder_titleContainer__q9sEq div span:first-child {
+    font-size: .85em
+}
+
+.customerPortalOrder_titleContainer__q9sEq div span {
+    line-height: 130%
+}
+
+.customerPortalOrder_orderImage__11glB {
+    width: 97.33%;
+    border-radius: .5em;
+    height: 24.1em;
+    -o-object-fit: cover;
+    object-fit: cover;
+    margin-bottom: 3.9em
+}
+
+.customerPortalOrder_productName__ksAXP {
+    font-family: Youth;
+    letter-spacing: -.04em;
+    color: #a39b8b;
+    font-weight: 500;
+    font-size: 2.5em;
+    margin-bottom: .86em
+}
+
+.customerPortalOrder_orderInfosContainer__t_ouQ {
+    width: 65.86%;
+    display: flex;
+    gap: 40px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    color: #a39b8b;
+    font-family: Aeonik;
+    font-weight: 400;
+    letter-spacing: -.01em;
+    margin-bottom: 3.9em
+}
+
+.customerPortalOrder_orderInfosContainer__t_ouQ div {
+    display: flex;
+    flex-direction: column;
+    align-items: center
+}
+
+.customerPortalOrder_orderInfosContainer__t_ouQ span {
+    font-size: 1.2em
+}
+
+.customerPortalOrder_paymentInfosContainer__9ykKz {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    width: 92%;
+    margin-bottom: 4.1em
+}
+
+.customerPortalOrder_paymentInfo__FcNxz {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center
+}
+
+.customerPortalOrder_paymentInfo__FcNxz:nth-child(2) {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%)
+}
+
+.customerPortalOrder_paymentInfo__FcNxz span:first-child {
+    color: #a39b8b;
+    font-family: Aeonik;
+    font-weight: 400;
+    letter-spacing: -.01em;
+    font-size: 1em
+}
+
+.customerPortalOrder_paymentInfo__FcNxz span:nth-child(2) {
+    color: #575349;
+    font-family: Youth;
+    font-weight: 500;
+    letter-spacing: -.04em;
+    font-size: 2.3em
+}
+
+.customerPortalOrder_paymentInfo__FcNxz span:nth-child(3) {
+    color: #a39b8b;
+    font-family: Aeonik;
+    font-weight: 400;
+    letter-spacing: -.01em;
+    font-size: .8em
+}
+
+.customerPortalOrder_buttonSupport___p2jd {
+    background-color: #efede8;
+    border-radius: .5em;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: FTPolarMono;
+    font-weight: 400;
+    letter-spacing: .05em;
+    width: 46.66%;
+    font-size: .83em;
+    padding-top: 2.17em;
+    padding-bottom: 2.17em;
+    margin-bottom: 4.8em;
+    color: #575349
+}
+
+.customerPortalOrder_breakdownTitle__N3pKq {
+    color: #a39b8b;
+    font-family: Youth;
+    font-weight: 500;
+    letter-spacing: -.01em;
+    border-bottom: 1px solid #e7e5e1;
+    font-size: 2.1em;
+    padding-bottom: 1.05em;
+    width: 92%;
+    text-align: center
+}
+
+.customerPortalOrder_expandableSectionsContainer__eQM_k {
+    width: 92%;
+    font-size: 1.15em
+}
+
+.customerPortalOrder_expandableBreakdownSectionContainer__aFRjM {
+    width: 100%;
+    border-bottom: 1px solid #e7e5e1;
+    padding-top: 1.6em;
+    padding-bottom: 1.6em
+}
+
+.customerPortalOrder_expandableContent__x_Ext {
+    overflow: hidden;
+    color: #a39b8b;
+    font-family: Aeonik;
+    letter-spacing: -.01em;
+    font-size: .95em;
+    width: 100%;
+    display: flex;
+    flex-direction: column
+}
+
+.customerPortalOrder_expandableContent__x_Ext>span {
+    font-family: Aeonik;
+    font-weight: 400;
+    letter-spacing: -.01em;
+    margin-bottom: .23em
+}
+
+.customerPortalOrder_expandableContent__x_Ext>span:last-child {
+    margin-bottom: 0
+}
+
+.customerPortalOrder_elementSummaryContainer__gPiYW {
+    display: flex;
+    width: 95%;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: .7em;
+    position: relative;
+    left: 2.5%
+}
+
+.customerPortalOrder_fixedContent__iEzuU {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #61574e;
+    font-family: Aeonik;
+    letter-spacing: -.01em
+}
+
+.customerPortalOrder_fixedContent__iEzuU h4 {
+    font-size: 1.08em
+}
+
+.customerPortalOrder_fixedContent__iEzuU div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative
+}
+
+.customerPortalOrder_fixedContent__iEzuU div span {
+    position: absolute;
+    width: .6em;
+    border-bottom: 1.5px solid #61574e;
+    right: .3em
+}
+
+.customerPortalOrder_fixedContent__iEzuU div span:first-child {
+    transform: rotate(90deg)
+}
+
+.customerPortalOrder_paragraphChanges__llC5J {
+    color: #a39b8b;
+    font-family: Aeonik;
+    font-weight: 400;
+    letter-spacing: -.01em;
+    font-size: 1.25em;
+    width: 55%;
+    text-align: center;
+    margin-bottom: 1.12em
+}
+
+.customerPortalOrder_expandableContent__x_Ext p {
+    font-size: 1em;
+    margin-bottom: 1.65em;
+    line-height: 100%
+}
+
+.customerPortalOrder_expandableBreakdownSectionContainer__aFRjM button {
+    background-color: #eeece8;
+    color: #575349;
+    font-family: FTPolarMono;
+    text-transform: uppercase;
+    font-weight: 400;
+    letter-spacing: .05em;
+    white-space: nowrap;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: .5em;
+    width: 36.2%;
+    font-size: .77em;
+    padding-top: 1.5em;
+    padding-bottom: 1.5em
+}
+
+.customerPortalOrder_refundContainer__8_Ytb {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    min-height: calc(100vh - (8.75vh + 5em))
+}
+
+.customerPortalOrder_refundContainer__8_Ytb h1 {
+    font-family: Youth;
+    font-weight: 500;
+    letter-spacing: -.04em;
+    color: #575349;
+    text-align: center;
+    font-size: 2.5em;
+    width: 70%;
+    line-height: 110%
+}
+
+.customerPortalOrder_refundEngagedTitle__7jwqj {
+    margin-bottom: .9em;
+    padding-top: 2.6em
+}
+
+.customerPortalOrder_refundConfirmedTitle__zxzeK {
+    padding-top: 1em;
+    margin-bottom: .85em
+}
+
+.customerPortalOrder_refundContainer__8_Ytb button {
+    font-family: FTPolarMono;
+    text-transform: uppercase;
+    color: #575349;
+    font-weight: 400;
+    letter-spacing: .05em;
+    background-color: #efede8;
+    border-radius: .5em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 2.12em;
+    padding-bottom: 2.12em;
+    font-size: .85em;
+    width: 46.66%
+}
+
+.customerPortalOrder_refundContainer__8_Ytb p {
+    font-family: Aeonik;
+    color: #a39b8b;
+    font-weight: 400;
+    letter-spacing: -.01em;
+    text-align: center;
+    max-width: 90%;
+    margin-bottom: 3.15em;
+    font-size: 1.25em
+}
+
+.customerPortalOrder_refundContainer__8_Ytb h2 {
+    color: #575349;
+    font-family: Youth;
+    letter-spacing: -.01em;
+    font-weight: 500;
+    margin-bottom: 1.3em;
+    font-size: 1.25em
+}
+
+.customerPortalOrder_refundContainer__8_Ytb a {
+    background-color: #efede8;
+    border-radius: .5em;
+    font-family: FTPolarMono;
+    text-transform: uppercase;
+    color: #575349;
+    font-weight: 400;
+    letter-spacing: .05em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 2.3em;
+    padding-bottom: 2.3em;
+    font-size: .78em;
+    width: 46.66%
+}
+
+.customerPortalOrder_pickupDetails__1hCMW {
+    display: grid;
+    gap: 5px;
+    color: #a39b8b
+}
+
+.customerPortalOrder_pickupDetails__1hCMW p {
+    margin-bottom: 2px !important
+}
+
+.customerPortalOrder_pickupDetails__1hCMW strong {
+    font-weight: 400;
+    color: #61574e
+}
+
+@media (min-width:1024px) {
+    .customerPortalOrder_orderContainer__IqIWO {
+        align-items: center;
+        width: 100%;
+        padding-top: 7.5em;
+        border-radius: .9em;
+        padding-bottom: calc(2em + 6.66vh)
+    }
+
+    .customerPortalOrder_titleContainer__q9sEq h1 {
+        font-size: 3.15em;
+        line-height: 50%
+    }
+
+    .customerPortalOrder_productName__ksAXP {
+        font-size: 3.2em;
+        margin-bottom: .47em
+    }
+
+    .customerPortalOrder_orderInfosContainer__t_ouQ {
+        width: 100%;
+        padding-inline: 10%;
+        margin-bottom: 3.5em
+    }
+
+    .customerPortalOrder_orderInfosContainer__t_ouQ span {
+        font-size: 1.12em
+    }
+
+    .customerPortalOrder_paymentInfosContainer__9ykKz {
+        width: 70.92%;
+        margin-bottom: 3.6em;
+        position: relative;
+        align-items: flex-start
+    }
+
+    .customerPortalOrder_paragraphChanges__llC5J {
+        font-size: 1.14em;
+        margin-bottom: 1.12em;
+        width: 100%
+    }
+
+    .customerPortalOrder_buttonSupport___p2jd {
+        width: 24.82%;
+        padding-top: 2.1em;
+        padding-bottom: 2.1em;
+        margin-bottom: 5.45em;
+        font-size: .75em
+    }
+
+    .customerPortalOrder_breakdownTitle__N3pKq {
+        width: 56.73%;
+        font-size: 1.63em;
+        padding-bottom: 1.22em
+    }
+
+    .customerPortalOrder_expandableSectionsContainer__eQM_k {
+        width: 56.73%;
+        cursor: pointer
+    }
+
+    .customerPortalOrder_expandableSectionsContainer__eQM_k span {
+        font-size: .9em
+    }
+
+    .customerPortalOrder_fixedContent__iEzuU h4 {
+        font-size: 1.125em
+    }
+
+    .customerPortalOrder_fixedContent__iEzuU div span {
+        width: .65em;
+        right: .325em
+    }
+
+    .customerPortalOrder_expandableContent__x_Ext {
+        font-size: 1.08em
+    }
+
+    .customerPortalOrder_expandableContent__x_Ext p {
+        font-size: .9em;
+        margin-bottom: 1.65em;
+        line-height: 100%
+    }
+
+    .customerPortalOrder_expandableBreakdownSectionContainer__aFRjM button {
+        font-size: .65em;
+        padding-top: 2em;
+        padding-bottom: 2em;
+        width: 31.25%
+    }
+
+    .customerPortalOrder_refundContainer__8_Ytb {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        min-height: 100%
+    }
+
+    .customerPortalOrder_refundContainer__8_Ytb h1 {
+        font-size: 3.22em;
+        width: 51.773%;
+        padding-top: 0;
+        line-height: 98%
+    }
+
+    .customerPortalOrder_refundEngagedTitle__7jwqj {
+        margin-bottom: .9em
+    }
+
+    .customerPortalOrder_refundConfirmedTitle__zxzeK {
+        margin-bottom: .6em
+    }
+
+    .customerPortalOrder_refundContainer__8_Ytb button {
+        font-size: .75em;
+        width: 31.91%
+    }
+
+    .customerPortalOrder_refundContainer__8_Ytb p {
+        margin-bottom: 2.45em;
+        font-size: 1.153em;
+        max-width: 55%
+    }
+
+    .customerPortalOrder_refundContainer__8_Ytb h2 {
+        font-size: 1.15em;
+        margin-bottom: 1.2em
+    }
+
+    .customerPortalOrder_refundContainer__8_Ytb a {
+        width: 31.91%;
+        padding-top: 2.17em;
+        padding-bottom: 2.17em;
+        font-size: .75em
+    }
+}
+
+.StrapiRichText_root__LUiYo a {
+    text-decoration: underline
+}
+
+.StrapiRichText_root__LUiYo ol,
+.StrapiRichText_root__LUiYo ul {
+    list-style-position: inside
+}
+
+.StrapiRichText_root__LUiYo ul {
+    list-style-type: disc
+}
+
+.StrapiRichText_root__LUiYo ol {
+    list-style-type: decimal
+}
+
+.StrapiRichText_root__LUiYo h1,
+.StrapiRichText_root__LUiYo h2,
+.StrapiRichText_root__LUiYo h3,
+.StrapiRichText_root__LUiYo h4,
+.StrapiRichText_root__LUiYo h5,
+.StrapiRichText_root__LUiYo h6 {
+    font-weight: 700;
+    line-height: 1.1
+}
+
+.StrapiRichText_root__LUiYo h1 {
+    font-size: 3em;
+    font-weight: 700
+}
+
+.StrapiRichText_root__LUiYo h2 {
+    font-size: 2.5em
+}
+
+.StrapiRichText_root__LUiYo h3 {
+    font-size: 2em
+}
+
+.StrapiRichText_root__LUiYo h4 {
+    font-size: 1.7em
+}
+
+.StrapiRichText_root__LUiYo h5 {
+    font-size: 1.4em
+}
+
+.StrapiRichText_root__LUiYo h6 {
+    font-size: 1.2em
+}
+
+.CustomerPortalBar_customerPortalBarContainer__C9SP7 {
+    height: 8.75vh;
+    width: 100%;
+    background-color: #4c4c4c;
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    bottom: 0;
+    z-index: 99
+}
+
+.CustomerPortalBar_iconsContent__VWo2p {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 86.4%
+}
+
+.CustomerPortalBar_iconsContent__VWo2p svg {
+    width: 1.7em;
+    padding-top: .6em;
+    padding-bottom: .6em;
+    border-bottom: 0 solid #fe814b
+}
+
+.CustomerPortalBar_hoverName__hh6rY {
+    display: none
+}
+
+@media (min-width:1024px) {
+    .CustomerPortalBar_customerPortalBarContainer__C9SP7 {
+        width: 48.958vw;
+        right: .85em;
+        bottom: .7em;
+        border-bottom-left-radius: .9em;
+        border-bottom-right-radius: .9em;
+        height: 6.666vh
+    }
+
+    .CustomerPortalBar_customerPortalBarContainer__C9SP7 a,
+    .CustomerPortalBar_customerPortalBarContainer__C9SP7 button,
+    .CustomerPortalBar_hoverName__hh6rY {
+        display: flex;
+        align-items: center;
+        justify-content: center
+    }
+
+    .CustomerPortalBar_hoverName__hh6rY {
+        position: absolute;
+        bottom: 6.8vh;
+        height: 4.222vh;
+        background-color: #eeece7;
+        color: #a39b8b;
+        font-family: Aeonik;
+        letter-spacing: -.01em;
+        white-space: nowrap;
+        border-radius: .3em;
+        padding-left: .8em;
+        padding-right: .8em;
+        font-size: .9em;
+        opacity: 0;
+        pointer-events: none
+    }
+}
+
+.orderHistory_customerPortal__Vu5t6 {
+    z-index: 99;
+    position: relative
+}
+
+.orderHistory_orderHistoryContainer__gnqIN {
+    background-color: #fdfdfd;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: calc(8.75vh + 4.6em)
+}
+
+.orderHistory_homeButton__oW24l {
+    width: 4.65em;
+    top: .8em;
+    left: .8em;
+    aspect-ratio: 1/1;
+    position: absolute;
+    z-index: 99;
+    background-color: #efede8;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: .5em;
+    cursor: pointer
+}
+
+.orderHistory_homeButton__oW24l svg {
+    width: 33%
+}
+
+@media (min-width:1024px) {
+    .orderHistory_customerPortal__Vu5t6 {
+        height: 100vh;
+        width: 100%;
+        display: flex;
+        justify-content: flex-end;
+        padding: .85em;
+        background-color: #eeece8;
+        overflow: hidden;
+        align-items: center;
+        font-size: 1em
+    }
+
+    .orderHistory_desktopImage__E4frG {
+        width: 48.958vw;
+        height: 97.77%;
+        -o-object-fit: cover;
+        object-fit: cover;
+        position: fixed;
+        left: .85em;
+        border-radius: .9em
+    }
+
+    .orderHistory_orderHistoryContainer__gnqIN {
+        width: 48.958vw;
+        height: 97.77vh;
+        min-height: 97.77%;
+        overflow-y: auto;
+        padding-top: 0 !important;
+        scrollbar-width: none;
+        -ms-overflow-style: none;
+        border-radius: .9em;
+        padding-bottom: 0
+    }
+
+    .orderHistory_orderHistoryContainer__gnqIN::-webkit-scrollbar {
+        display: none
+    }
+
+    .orderHistory_imageContainer__OD7s4 {
+        display: none
+    }
+
+    .orderHistory_homeButton__oW24l {
+        top: 1.5em;
+        left: 1.5em;
+        position: fixed
+    }
+}
+
+@media (min-width:1900px) {
+    .orderHistory_customerPortal__Vu5t6 {
+        font-size: .9em
+    }
+}
+
+@media (min-width:768px) {
+    .orderHistory_customerPortal__Vu5t6 {
+        font-size: 1.1em
+    }
+}
+
+@media (max-width:350px) {
+    .orderHistory_customerPortal__Vu5t6 {
+        font-size: .9em
+    }
+}

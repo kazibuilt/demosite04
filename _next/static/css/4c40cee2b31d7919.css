@@ -1,0 +1,110 @@
+.PreOrder_preOrderContainer__YYRwg {
+    background-color: #fdfdfd;
+    overflow-y: scroll
+}
+
+.PreOrder_paymentConfirmationContainer__9H0_C {
+    background-color: #eeece7;
+    padding-right: .5em;
+    padding-top: .5em;
+    padding-bottom: .5em;
+    border-radius: .5em;
+    width: 100%
+}
+
+.PreOrder_confirmationContainer__EQKVG {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: calc(100vh - 1em);
+    justify-content: center;
+    position: relative;
+    min-width: 100%;
+    width: 100%;
+    overflow: hidden;
+    background-color: #fdfdfd;
+    border-radius: .5em
+}
+
+.PreOrder_confirmationContainer__EQKVG h1 {
+    color: #575349;
+    font-family: Youth;
+    font-weight: 500;
+    letter-spacing: -.04em;
+    width: 69.391%;
+    text-align: center;
+    font-size: 2.65em;
+    margin-bottom: .62em;
+    line-height: 105%
+}
+
+.PreOrder_confirmationContainer__EQKVG p {
+    color: #a39b8b;
+    font-family: Aeonik;
+    font-weight: 400;
+    letter-spacing: -.01em;
+    margin-bottom: 2.8em;
+    font-size: .95em
+}
+
+.PreOrder_confirmationContainer__EQKVG h2 {
+    font-family: Youth;
+    color: #575349;
+    font-weight: 500;
+    letter-spacing: -.01em;
+    margin-bottom: 1.4em;
+    font-size: .95em
+}
+
+.PreOrder_contactCTA__7r2U2 {
+    background-color: #efede8;
+    border-radius: .5em;
+    text-transform: uppercase;
+    font-family: FTPolarMono;
+    font-weight: 400;
+    letter-spacing: .05em;
+    color: #575349;
+    padding-inline: 20px;
+    text-align: center;
+    padding-top: 2.2em;
+    padding-bottom: 2.2em;
+    font-size: .64em
+}
+
+.PreOrder_socialMediaContainer__Qtfxm {
+    width: 78.517%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: Aeonik Fono;
+    text-transform: uppercase;
+    color: #4c4c4c;
+    font-size: .68em;
+    font-weight: 400;
+    position: absolute;
+    bottom: 2.5em
+}
+
+.PreOrder_circle__ngAr3 {
+    background-color: #4c4c4c;
+    min-width: .25em;
+    min-height: .25em;
+    height: .25em;
+    width: .25em;
+    aspect-ratio: 1/1;
+    border-radius: 100%
+}
+
+@media (min-width:1024px) {
+
+    .PreOrder_paymentConfirmationContainer__9H0_C,
+    .PreOrder_preOrderContainer__YYRwg {
+        display: flex;
+        justify-content: flex-end
+    }
+
+    .PreOrder_confirmationContainer__EQKVG {
+        min-width: calc(36.527% - .5em);
+        width: calc(36.527% - .5em)
+    }
+}

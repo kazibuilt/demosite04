@@ -1,0 +1,185 @@
+.setupPassword_setupPasswordContainer__fwoLV {
+    background-color: #fdfdfd;
+    min-height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center
+}
+
+.setupPassword_imageContainer__OIEKL {
+    height: 22.85em;
+    width: 100%;
+    padding-top: .3em;
+    padding-left: .3em;
+    padding-right: .3em
+}
+
+.setupPassword_imageContainer__OIEKL img {
+    height: 100%;
+    width: 100%;
+    -o-object-fit: cover;
+    object-fit: cover;
+    border-radius: .5em
+}
+
+.setupPassword_homeButton__8dmBi {
+    width: 4.65em;
+    top: .7em;
+    left: .7em;
+    aspect-ratio: 1/1;
+    position: absolute;
+    z-index: 99;
+    background-color: #fdfdfd;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: .5em;
+    cursor: pointer
+}
+
+.setupPassword_homeButton__8dmBi svg {
+    width: 35%
+}
+
+.setupPassword_content__QDW1T {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%
+}
+
+.setupPassword_title__zO0Rx {
+    font-family: Youth;
+    font-size: 2.8em;
+    color: #575349;
+    font-weight: 500;
+    margin-bottom: .35em;
+    letter-spacing: -.03em;
+    text-align: center;
+    line-height: 110%
+}
+
+.setupPassword_subtitle__auCcx {
+    color: #a39b8b;
+    font-family: Aeonik;
+    font-size: 1.2em;
+    margin-bottom: 1.95em;
+    text-align: center
+}
+
+.setupPassword_formContainer__XLlZr {
+    width: 92%;
+    display: flex;
+    flex-direction: column;
+    align-items: center
+}
+
+.setupPassword_form__zhJWV {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%
+}
+
+.setupPassword_form__zhJWV input {
+    width: 100%;
+    padding: 1.33em .8em;
+    border-radius: .5em;
+    border: 1px solid #d6d4d1;
+    font-family: Aeonik;
+    font-weight: 400;
+    color: #575349;
+    font-size: 1.08em;
+    outline: none;
+    margin-bottom: .8em
+}
+
+.setupPassword_form__zhJWV input::-moz-placeholder {
+    color: #a39b8b
+}
+
+.setupPassword_form__zhJWV input::placeholder {
+    color: #a39b8b
+}
+
+.setupPassword_backToLoginButton__sYmOE,
+.setupPassword_form__zhJWV button {
+    background-color: #efede8;
+    font-family: FTPolarMono;
+    text-transform: uppercase;
+    font-weight: 100;
+    color: #575349;
+    width: 57.97%;
+    border-radius: .5em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    margin-top: 1.8em;
+    font-size: .85em;
+    padding-top: 2.1em;
+    padding-bottom: 2.1em;
+    letter-spacing: .05em;
+    margin-bottom: 1.8em
+}
+
+@media (min-width:1024px) {
+    .setupPassword_setupPasswordContainer__fwoLV {
+        height: 100vh;
+        flex-direction: row;
+        justify-content: space-between;
+        padding: .8em .7em
+    }
+
+    .setupPassword_imageContainer__OIEKL {
+        padding: 0;
+        margin: 0;
+        height: 100%;
+        width: 48.958vw;
+        position: relative
+    }
+
+    .setupPassword_imageContainer__OIEKL img {
+        border-radius: .8em
+    }
+
+    .setupPassword_homeButton__8dmBi {
+        top: .8em;
+        left: .8em
+    }
+
+    .setupPassword_content__QDW1T {
+        width: 48.958vw
+    }
+
+    .setupPassword_formContainer__XLlZr {
+        width: 27.777vw
+    }
+
+    .setupPassword_title__zO0Rx {
+        font-size: 3.45em;
+        margin-bottom: .51em
+    }
+
+    .setupPassword_subtitle__auCcx {
+        font-size: 1.23em;
+        margin-bottom: 2.63em
+    }
+
+    .setupPassword_form__zhJWV input {
+        font-size: 1.25em;
+        padding: 1.02em .7em;
+        margin-bottom: .7em
+    }
+
+    .setupPassword_form__zhJWV button {
+        width: 43.75%;
+        margin-top: 2.95em
+    }
+
+    .setupPassword_backToLoginButton__sYmOE {
+        width: 24.82%;
+        margin-top: 1.7em
+    }
+}

@@ -1,0 +1,884 @@
+.StrapiRichText_root__LUiYo a {
+    text-decoration: underline
+}
+
+.StrapiRichText_root__LUiYo ol,
+.StrapiRichText_root__LUiYo ul {
+    list-style-position: inside
+}
+
+.StrapiRichText_root__LUiYo ul {
+    list-style-type: disc
+}
+
+.StrapiRichText_root__LUiYo ol {
+    list-style-type: decimal
+}
+
+.StrapiRichText_root__LUiYo h1,
+.StrapiRichText_root__LUiYo h2,
+.StrapiRichText_root__LUiYo h3,
+.StrapiRichText_root__LUiYo h4,
+.StrapiRichText_root__LUiYo h5,
+.StrapiRichText_root__LUiYo h6 {
+    font-weight: 700;
+    line-height: 1.1
+}
+
+.StrapiRichText_root__LUiYo h1 {
+    font-size: 3em;
+    font-weight: 700
+}
+
+.StrapiRichText_root__LUiYo h2 {
+    font-size: 2.5em
+}
+
+.StrapiRichText_root__LUiYo h3 {
+    font-size: 2em
+}
+
+.StrapiRichText_root__LUiYo h4 {
+    font-size: 1.7em
+}
+
+.StrapiRichText_root__LUiYo h5 {
+    font-size: 1.4em
+}
+
+.StrapiRichText_root__LUiYo h6 {
+    font-size: 1.2em
+}
+
+.plumbingHero_heroContainer__lhMF7 {
+    width: 100vw;
+    min-height: 193.33vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    z-index: 10;
+    background-color: #fdfdfd
+}
+
+.plumbingHero_imageAndTitleContainer__wUWtd {
+    min-height: 100vh;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    overflow: hidden
+}
+
+.plumbingHero_imageAndTitleContainer__wUWtd h1 {
+    position: absolute;
+    bottom: 5.333%;
+    font-family: Youth;
+    font-weight: 500;
+    letter-spacing: -.045em;
+    font-size: 12.5em;
+    color: #f2efe9;
+    text-align: center;
+    line-height: 89%;
+    width: 50.9%
+}
+
+.plumbingHero_imageAndTitleContainer__wUWtd img {
+    width: 100%;
+    height: 100%;
+    -o-object-fit: cover;
+    object-fit: cover
+}
+
+.plumbingHero_textContainer__6Fb3i {
+    width: 100%;
+    min-height: 93.33vh;
+    background-color: #fdfdfd;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 10.3em
+}
+
+.plumbingHero_text__lgSBh {
+    color: #4c4c4c;
+    font-family: Youth;
+    font-weight: 500;
+    letter-spacing: -.04em;
+    font-size: 5em;
+    width: 52.08vw;
+    line-height: 100%;
+    margin-bottom: .8em
+}
+
+.plumbingHero_subText__gEgF7 {
+    font-size: Aeonik;
+    color: #4c4c4c;
+    letter-spacing: .01em;
+    width: 34.722vw;
+    font-size: 1.49em
+}
+
+@media (max-width:1023px) {
+    .plumbingHero_heroContainer__lhMF7 {
+        min-height: 175vh
+    }
+
+    .plumbingHero_imageAndTitleContainer__wUWtd h1 {
+        bottom: 4%;
+        font-size: 9.8em;
+        width: 100%
+    }
+
+    .plumbingHero_textContainer__6Fb3i {
+        width: 92%;
+        padding-left: 0;
+        min-height: 65vh
+    }
+
+    .plumbingHero_text__lgSBh {
+        font-size: 6em;
+        width: 100%;
+        line-height: 100%;
+        margin-bottom: 1.3em
+    }
+
+    .plumbingHero_subText__gEgF7 {
+        width: 100%;
+        font-size: 2.5em
+    }
+}
+
+.separateLine_separateLine__XZlUb span {
+    position: absolute;
+    width: .5em;
+    aspect-ratio: 1/.15
+}
+
+.separateLine_separateLine__XZlUb span:first-child {
+    transform: rotate(90deg)
+}
+
+.howItWorks_howItWorksContainer__b04t_,
+.separateLine_separateLine__XZlUb {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative
+}
+
+.howItWorks_howItWorksContainer__b04t_ {
+    height: 100vh;
+    width: 100vw;
+    transform: translateY(-100%);
+    z-index: 2;
+    background-color: #efede8;
+    opacity: 0
+}
+
+.howItWorks_wrapper__oFrIL {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    padding: .9em
+}
+
+.howItWorks_textContent__mC11i {
+    position: absolute;
+    bottom: 1.85em;
+    left: 1.85em;
+    background-color: #f2efe94d;
+    -webkit-backdrop-filter: blur(5em);
+    backdrop-filter: blur(5em);
+    color: #f2efe9;
+    width: 26.736%;
+    border-radius: .9em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 6.33em;
+    padding-bottom: 6.33em
+}
+
+.howItWorks_textContent__mC11i h2 {
+    font-family: Youth;
+    font-weight: 500;
+    letter-spacing: -.04em;
+    font-size: 2.33em;
+    margin-bottom: 1.73em
+}
+
+.howItWorks_textContent__mC11i p {
+    width: 77.92%;
+    text-align: center;
+    font-family: Aeonik;
+    letter-spacing: .01em;
+    font-size: 1.16em;
+    margin-bottom: 1em
+}
+
+.howItWorks_image__PoIoZ {
+    width: 100%;
+    height: 100%;
+    border-radius: 1em;
+    -o-object-fit: cover;
+    object-fit: cover
+}
+
+@media (max-width:1023px) {
+    .howItWorks_wrapper__oFrIL h2 {
+        position: absolute;
+        color: #f2efe9;
+        font-family: Youth;
+        font-weight: 500;
+        letter-spacing: -.04em;
+        font-size: 6.05em
+    }
+
+    .howItWorks_textContent__mC11i {
+        bottom: 2.5em;
+        left: 2.5em;
+        padding: 1.7em;
+        width: 70.4vw
+    }
+
+    .howItWorks_textContent__mC11i p {
+        text-align: left;
+        width: 100%;
+        font-size: 2.17em;
+        margin-bottom: 0
+    }
+}
+
+.benefits_benefitsContainer__sJKxd {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    position: relative
+}
+
+.benefits_benefitsIntroductionContainer__LWWSA {
+    height: 95.44vh;
+    width: 100%;
+    background-color: #efede9;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    z-index: 1;
+    position: absolute
+}
+
+.benefits_benefitsIntroductionContainer__LWWSA h2 {
+    font-family: Youth;
+    font-weight: 500;
+    letter-spacing: -.04em;
+    color: #4c4c4c;
+    font-size: 5.1em;
+    margin-bottom: .23em
+}
+
+.benefits_benefitsIntroductionContainer__LWWSA p {
+    font-family: Aeonik;
+    font-weight: 400;
+    color: #4c4c4c;
+    letter-spacing: .01em;
+    width: 27.777%;
+    font-size: 1.25em;
+    text-align: center
+}
+
+.benefits_sectionsAndImageContainer__Kp0rs {
+    display: flex;
+    padding-top: .9em;
+    padding-right: .9em;
+    position: relative;
+    width: 100%;
+    padding-bottom: 1.1115vh
+}
+
+.benefits_benefitsSectionsContainer__G600o {
+    width: 100%
+}
+
+.benefits_benefitsImage__u1RCr {
+    height: 97.777vh;
+    width: 62.464%;
+    border-radius: .9em;
+    -o-object-fit: cover;
+    object-fit: cover;
+    position: sticky;
+    top: calc(-95.44vh + 1.1115vh);
+    right: .9em
+}
+
+.benefits_sectionsChargingWrapper__BHw8d {
+    width: 38.41%;
+    display: flex;
+    flex-direction: column;
+    align-items: center
+}
+
+.benefits_sectionsPlumbingWrapper__oGDP8 {
+    width: 36.83%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: .9em;
+    background-color: #fdfdfd;
+    position: relative;
+    height: 97.777vh
+}
+
+.benefits_plumbingBenefitsCountContainer__2lPPs {
+    width: 92.35%;
+    background-color: #cbc7bd;
+    border-radius: .5em;
+    font-family: Aeonik Fono;
+    text-transform: uppercase;
+    color: #fdfdfd;
+    letter-spacing: .05em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 2.27em;
+    padding-bottom: 2.27em;
+    position: absolute;
+    bottom: 2.7272%;
+    font-size: .85em
+}
+
+.benefits_sectionChargingContainer__QydO_,
+.benefits_sectionPlumbingContainer__tTocn {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 5.83em
+}
+
+.benefits_sectionPlumbingContainer__tTocn {
+    position: absolute;
+    top: 0;
+    height: 90.68%;
+    justify-content: center
+}
+
+.benefits_sectionPlumbingContainer__tTocn p {
+    width: 66.92%;
+    font-family: Aeonik;
+    font-weight: 400;
+    letter-spacing: .01em;
+    color: #4c4c4c;
+    text-align: center;
+    font-size: 1.18em
+}
+
+.benefits_iconContainer__wksNm {
+    width: 4.3em;
+    height: 4.3em;
+    border: 1px solid #d9d9d9;
+    border-radius: .5em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 2.45em
+}
+
+.benefits_iconContainer__wksNm img {
+    width: 35%
+}
+
+.benefits_sectionChargingContainer__QydO_ h3 {
+    font-size: 2.98em;
+    width: 58.76%;
+    margin-bottom: .65em
+}
+
+.benefits_sectionChargingContainer__QydO_ h3,
+.benefits_sectionPlumbingContainer__tTocn h3 {
+    font-family: Youth;
+    font-weight: 500;
+    color: #4c4c4c;
+    letter-spacing: -.04em;
+    text-align: center;
+    line-height: 98%
+}
+
+.benefits_sectionPlumbingContainer__tTocn h3 {
+    font-size: 3.7em;
+    margin-bottom: 2.33em
+}
+
+.benefits_sectionChargingContainer__QydO_ p {
+    font-family: Aeonik;
+    font-weight: 400;
+    letter-spacing: .01em;
+    color: #4c4c4c;
+    width: 58.76%;
+    text-align: center;
+    font-size: 1.16em;
+    margin-bottom: 7.32em
+}
+
+@media (max-width:1023px) {
+    .benefits_benefitsIntroductionContainer__LWWSA {
+        height: 64.14vh
+    }
+
+    .benefits_benefitsIntroductionContainer__LWWSA h2 {
+        font-size: 6em;
+        margin-bottom: .47em
+    }
+
+    .benefits_benefitsIntroductionContainer__LWWSA p {
+        width: 73.33%;
+        font-size: 2.5em
+    }
+
+    .benefits_sectionsAndImageContainer__Kp0rs {
+        padding-top: 0;
+        padding-right: 0;
+        padding-left: 0 !important;
+        display: flex;
+        flex-direction: column;
+        align-items: center
+    }
+
+    .benefits_benefitsImage__u1RCr {
+        height: 36.71vh;
+        width: 94.66%
+    }
+
+    .benefits_sectionsChargingWrapper__BHw8d {
+        height: calc(63.29vh - 3vw);
+        width: 100%;
+        position: relative
+    }
+
+    .benefits_sectionChargingContainer__QydO_ {
+        justify-content: center;
+        width: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 100%
+    }
+
+    .benefits_iconContainer__wksNm {
+        width: 7.2em;
+        height: 7.2em;
+        border-radius: 1em;
+        margin-bottom: 4.25em
+    }
+
+    .benefits_sectionChargingContainer__QydO_ h3 {
+        font-size: 5.3em;
+        width: 100%;
+        margin-bottom: .79em
+    }
+
+    .benefits_sectionChargingContainer__QydO_ p {
+        font-size: 2.17em;
+        margin-bottom: 0
+    }
+
+    .benefits_sectionChargingContainer__QydO_ {
+        padding-top: 0
+    }
+
+    .benefits_sectionsPlumbingWrapper__oGDP8 {
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 97.333%;
+        background-color: #cbc7bd
+    }
+
+    .benefits_sectionsPlumbingWrapper__oGDP8 img {
+        border-radius: .9em;
+        width: 100%;
+        -o-object-fit: cover;
+        object-fit: cover;
+        height: 41.5em !important;
+        position: static !important;
+        margin-bottom: 1em
+    }
+
+    .benefits_sectionPlumbingContainer__tTocn {
+        position: static;
+        background-color: #fdfdfd;
+        border-radius: .9em;
+        height: auto;
+        padding-top: 5.83em;
+        margin-bottom: 5em
+    }
+
+    .benefits_sectionPlumbingContainer__tTocn h3 {
+        width: 90%;
+        font-size: 4.3em;
+        margin-bottom: 1.78em
+    }
+
+    .benefits_sectionPlumbingContainer__tTocn p {
+        width: 87.67%;
+        font-size: 2.15em;
+        margin-bottom: 2.5em
+    }
+}
+
+.aboutPebble_aboutPebbleContainer__A__sX {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #3c4335;
+    width: 100%;
+    padding-top: 16.8em;
+    padding-bottom: 8em;
+    z-index: 9
+}
+
+.aboutPebble_aboutPebbleContainer__A__sX h2 {
+    font-family: Youth;
+    color: #efede8;
+    font-weight: 500;
+    letter-spacing: -.04em;
+    text-align: center;
+    width: 41.5%;
+    font-size: 5em;
+    line-height: 90%;
+    margin-bottom: 2.13em
+}
+
+.aboutPebble_articlesContainer__gvGMx {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding-left: 1.6em;
+    padding-right: 1.6em
+}
+
+.aboutPebble_article__lqr_B {
+    display: flex;
+    flex-direction: column;
+    width: 23.78vw;
+    font-family: Aeonik;
+    font-weight: 400;
+    color: #efede8;
+    letter-spacing: -.01em
+}
+
+.aboutPebble_article__lqr_B img {
+    border-radius: .5em;
+    width: 100%;
+    height: 28.5em;
+    -o-object-fit: cover;
+    object-fit: cover;
+    margin-bottom: 3.13em
+}
+
+.aboutPebble_article__lqr_B p {
+    font-size: 1.5em;
+    line-height: 140%;
+    margin-bottom: 1.1em
+}
+
+.aboutPebble_article__lqr_B span {
+    font-size: 1.08em;
+    margin-bottom: 1.55em
+}
+
+.aboutPebble_article__lqr_B button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.8em;
+    height: 2.8em;
+    border-radius: .5em;
+    background-color: #efede9
+}
+
+.aboutPebble_article__lqr_B button svg {
+    width: 25%
+}
+
+@media (max-width:1023px) {
+    .aboutPebble_aboutPebbleContainer__A__sX {
+        padding-top: 25em;
+        padding-bottom: 12.9em
+    }
+
+    .aboutPebble_aboutPebbleContainer__A__sX h2 {
+        width: 85.33%;
+        font-size: 5.3em;
+        line-height: 115%;
+        margin-bottom: 3.23em
+    }
+
+    .aboutPebble_articlesContainer__gvGMx {
+        overflow-x: auto;
+        gap: 1.7em;
+        padding-left: 2.3em;
+        padding-right: 2.3em;
+        scrollbar-width: none;
+        -ms-overflow-style: none
+    }
+
+    .aboutPebble_articlesContainer__gvGMx::-webkit-scrollbar {
+        display: none
+    }
+
+    .aboutPebble_article__lqr_B {
+        min-width: 80vw;
+        width: 80vw
+    }
+
+    .aboutPebble_article__lqr_B img {
+        height: 49.9em;
+        margin-bottom: 3.45em
+    }
+
+    .aboutPebble_article__lqr_B p {
+        font-size: 2.46em;
+        margin-bottom: 1.1em;
+        width: 91.66%
+    }
+
+    .aboutPebble_article__lqr_B span {
+        font-size: 2em;
+        margin-bottom: 0
+    }
+
+    .aboutPebble_article__lqr_B button {
+        display: none
+    }
+}
+
+.techSpecs_techSpecsContainer__I7MCk {
+    background-color: #fdfdfd;
+    display: flex;
+    width: 100%;
+    justify-content: flex-end;
+    padding: 8.3em 1.6em 16.65em;
+    z-index: 10
+}
+
+.techSpecs_techSpecsContainer__I7MCk h2 {
+    color: #4c4c4c;
+    font-family: Youth;
+    font-weight: 500;
+    letter-spacing: -.04em;
+    font-size: 5em;
+    width: 34.65vw;
+    line-height: 72%
+}
+
+.techSpecs_specsContainer__DDp1s {
+    display: flex;
+    flex-direction: column;
+    width: 61.18vw
+}
+
+.techSpecs_specsContainer__DDp1s img {
+    width: 100%;
+    height: 37.2em;
+    margin-bottom: 6.1em;
+    border-radius: .5em;
+    -o-object-fit: cover;
+    object-fit: cover
+}
+
+.techSpecs_specsContainer__DDp1s ul {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding-left: 0
+}
+
+.techSpecs_specsContainer__DDp1s ul li {
+    color: #4c4c4c;
+    font-family: Aeonik;
+    font-weight: 400;
+    font-size: 1.2em;
+    width: 100%;
+    padding-top: 2.67em;
+    padding-bottom: 2.67em;
+    border-bottom: 1px solid #e2e2e2;
+    list-style-type: none;
+    display: flex
+}
+
+.techSpecs_specsContainer__DDp1s ul li:first-child {
+    border-top: 1px solid #e2e2e2
+}
+
+@media (max-width:1023px) {
+    .techSpecs_techSpecsContainer__I7MCk {
+        flex-direction: column;
+        justify-content: flex-start;
+        padding: 7em 2.5em 16.67em
+    }
+
+    .techSpecs_techSpecsContainer__I7MCk h2 {
+        width: 100%;
+        font-size: 5.3em;
+        line-height: 100%;
+        margin-bottom: .9em
+    }
+
+    .techSpecs_specsContainer__DDp1s {
+        width: 100%
+    }
+
+    .techSpecs_specsContainer__DDp1s img {
+        height: 37.3em;
+        border-radius: 1em;
+        margin-bottom: 6.3em
+    }
+
+    .techSpecs_specsContainer__DDp1s ul li {
+        font-size: 2.43em;
+        padding-top: 2em;
+        padding-bottom: 2em
+    }
+}
+
+.joinTheRide_joinTheRideContainer__mWbXl {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    transform: translateY(-100%);
+    overflow: hidden;
+    z-index: 1;
+    height: 100vh;
+    justify-content: center;
+    background-color: transparent !important
+}
+
+.joinTheRide_joinTheRideContainer__mWbXl h4 {
+    font-family: Aeonik Fono;
+    font-weight: 400;
+    letter-spacing: .04em;
+    color: #fdfdfd;
+    z-index: 1;
+    text-transform: uppercase;
+    font-size: 1.02em;
+    margin-bottom: 3em
+}
+
+.joinTheRide_joinTheRideContainer__mWbXl h2 {
+    font-family: Youth;
+    font-weight: 500;
+    letter-spacing: -.04em;
+    color: #fdfdfd;
+    z-index: 1;
+    font-size: 12.5em;
+    line-height: 75%;
+    margin-bottom: .39em
+}
+
+.joinTheRide_joinTheRideContainer__mWbXl button {
+    color: #575349;
+    background-color: #fdfdfd;
+    border-radius: .5em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 8.68%;
+    padding-top: 2.42em;
+    padding-bottom: 2.42em;
+    font-size: .85em;
+    margin-bottom: 2.5em
+}
+
+.joinTheRide_joinTheRideContainer__mWbXl button,
+.joinTheRide_joinTheRideContainer__mWbXl span {
+    font-family: Aeonik Fono;
+    font-weight: 400;
+    letter-spacing: .05em;
+    text-transform: uppercase;
+    z-index: 1
+}
+
+.joinTheRide_joinTheRideContainer__mWbXl span {
+    color: #fdfdfd
+}
+
+.joinTheRide_image__aXm33 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 100%;
+    width: 100%;
+    -o-object-fit: cover;
+    object-fit: cover
+}
+
+@media (max-width:1023px) {
+    .joinTheRide_joinTheRideContainer__mWbXl h4 {
+        font-size: 2.05em;
+        margin-bottom: 2.65em
+    }
+
+    .joinTheRide_joinTheRideContainer__mWbXl h2 {
+        text-align: center;
+        width: 72.533%;
+        line-height: 83%;
+        margin-bottom: .5em
+    }
+
+    .joinTheRide_joinTheRideContainer__mWbXl button {
+        width: 30.66%;
+        font-size: 1.7em;
+        padding-top: 1.95em;
+        padding-bottom: 1.95em
+    }
+
+    .joinTheRide_joinTheRideContainer__mWbXl span {
+        font-size: 1.65em
+    }
+}
+
+.plumbing_plumbingContainer__fj80F {
+    display: flex;
+    flex-direction: column;
+    align-items: center
+}
+
+@media (max-width:900px) {
+    .plumbing_plumbingContainer__fj80F {
+        font-size: .8em
+    }
+}
+
+@media (max-width:650px) {
+    .plumbing_plumbingContainer__fj80F {
+        font-size: .65em
+    }
+}
+
+@media (max-width:500px) {
+    .plumbing_plumbingContainer__fj80F {
+        font-size: .5em
+    }
+}
+
+@media (max-width:373px) {
+    .plumbing_plumbingContainer__fj80F {
+        font-size: .45em
+    }
+}
+
+@media (max-width:340px) {
+    .plumbing_plumbingContainer__fj80F {
+        font-size: .4em
+    }
+}
