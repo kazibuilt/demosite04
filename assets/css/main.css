@@ -1271,12 +1271,12 @@ html.lenis body {
 }
 
 .split-line-move {
-    line-height: .5em
+    line-height: 1
 }
 
 .split-line-move>div {
     overflow: hidden;
-    line-height: .8em
+    line-height: 1
 }
 
 .cloneText {
